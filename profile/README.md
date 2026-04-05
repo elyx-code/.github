@@ -9,4 +9,4 @@
 
 👩‍💻 Useful resources
 
-- [Website](https://elysiums.app/)
+- [Website](https://elyx.tech/)
